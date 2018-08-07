@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: black;
+background-image: url(https://media.giphy.com/media/3oz8xSSfeH1U6l4DTy/giphy.gif);
+background-size: cover;
+}
+h1{color:white;
+    font-family: cursive
+}
+h2{
+    color:white;
+    font-family: cursive
+}
+h3{
+    color:white;
+    font-family: cursive
+}
+
+p{
+    color: black;
+}
+img{
+    width:150px;  
+}
+nav{
+ 
+    display: block;
+    width:500px;
+    height: 30px;
+    background-color:black
+}
